@@ -16,10 +16,10 @@ MonoBehaviour:
   itemName: Jailbird
   spawnPositionTypes: []
   twoHanded: 0
-  twoHandedAnimation: 0
+  twoHandedAnimation: 1
   canBeGrabbedBeforeGameStart: 0
   weight: 1.2
-  itemIsTrigger: 0
+  itemIsTrigger: 1
   holdButtonUse: 1
   itemSpawnsOnGround: 1
   isConductiveMetal: 1
@@ -31,17 +31,17 @@ MonoBehaviour:
   minValue: 0
   spawnPrefab: {fileID: 4342686885629881051, guid: 02fa305794b11264a938d7d0de3eba49,
     type: 3}
-  requiresBattery: 0
+  requiresBattery: 1
   batteryUsage: 0
   automaticallySetUsingPower: 0
   itemIcon: {fileID: 21300000, guid: 74d9c50a4f2bd354487823785210b450, type: 3}
-  grabAnim: 
+  grabAnim: HoldLung
   useAnim: 
   pocketAnim: 
   throwAnim: 
   grabAnimationTime: 0
-  grabSFX: {fileID: 8300000, guid: 415dba108ce73d841a0893e60255bd8e, type: 3}
-  dropSFX: {fileID: 0}
+  grabSFX: {fileID: 8300000, guid: e8fd2dc16ddec4c4c90e7fd74d44f475, type: 3}
+  dropSFX: {fileID: 8300000, guid: 701eecd09a0ed5e44bff62eece842772, type: 3}
   pocketSFX: {fileID: 0}
   throwSFX: {fileID: 0}
   syncGrabFunction: 0
@@ -55,8 +55,8 @@ MonoBehaviour:
   floorYOffset: 0
   allowDroppingAheadOfPlayer: 0
   restingRotation: {x: 0, y: 0, z: 0}
-  rotationOffset: {x: 0, y: 0, z: 0}
-  positionOffset: {x: 0, y: 0, z: 0}
+  rotationOffset: {x: 270, y: 110, z: 0}
+  positionOffset: {x: 0, y: 0, z: -0.2}
   meshOffset: 0
   meshVariants: []
   materialVariants: []

@@ -1,10 +1,10 @@
 ManifestFileVersion: 0
-CRC: 2652270125
+CRC: 3275294799
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: modassets
+      Name: jailbirdassets
       Dependencies: {}
     Info_1:
-      Name: jailbirdassets
+      Name: modassets
       Dependencies: {}

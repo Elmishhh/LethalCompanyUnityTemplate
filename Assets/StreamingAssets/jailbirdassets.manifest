@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4168559483
+CRC: 1680110907
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 85173b71fb0578eef5d88f2e22b4f776
+    Hash: 483c5ea96437299e8d947618fd2d63b5
   TypeTreeHash:
     serializedVersion: 2
-    Hash: ffe31035a9340b1edc9450f301af3890
+    Hash: 785983d2ad0c21a38feb75e20e5de447
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 85173b71fb0578eef5d88f2e22b4f776
+    Hash: 483c5ea96437299e8d947618fd2d63b5
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -37,9 +37,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: c30496d6ae6d6f907456e10a94e01ec6, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 3c36d0a92cbb1f26a39169ef0eae393a, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c36d0a92cbb1f26a39169ef0eae393a, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 137
@@ -54,22 +54,22 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/Prefab/Equip_Fast.mp3
 - Assets/Prefab/Jailbird/Mat_Jailbird_Albedo.png
-- Assets/Prefab/glow_red.mat
 - Assets/Prefab/Jailbird/jailbird.dae
+- Assets/Prefab/ShovelSwing.ogg
 - Assets/Prefab/Jailbird/jailbird.fbx
 - Assets/Prefab/Jailbird.prefab
-- Assets/Prefab/Charge_Run_fixed.mp3
 - Assets/Prefab/glow_blue.mat
-- Assets/Prefab/Equip_Slow_fixed.mp3
-- Assets/Prefab/Charge_Swing_fixed.mp3
 - Assets/Prefab/Jailbird/Mat_Jailbird_Smooth.png
 - Assets/Prefab/Jailbird/Mat_Jailbird_Emission.png
+- Assets/Prefab/metal-beaten-sfx-230501.mp3
 - Assets/Prefab/Jailbird/Mat_Jailbird_Damaged_Emission.png
 - Assets/Prefab/Normal_Hit.mp3
+- Assets/Prefab/Jailbirdswing1.mp3
 - Assets/Prefab/JailbirdItemProps.asset
+- Assets/Prefab/ShovelReelUp.ogg
 - Assets/Prefab/Jailbird/Mat_Jailbird_AO.png
-- Assets/Prefab/Charge_Start_fixed.mp3
 - Assets/Prefab/JailbirdIcon.png
 - Assets/Prefab/Jailbird/Mat_Jailbird_Normal.png
 - Assets/Prefab/Jailbird/Mat_Jailbird_Metal.png
